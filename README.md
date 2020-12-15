@@ -1,4 +1,4 @@
-# <a href="https://github.com/SeniorIgor/Hacker-News#-hacker-news"></a> Hacker-News-Docker
+# <a href="https://github.com/SeniorIgor/Hacker-News-Docker/blob/master/README.md#-hacker-news-docker"></a> Hacker-News-Docker
 ### Hacker-News-Docker - копия проекта <a href="https://github.com/SeniorIgor/Hacker-News#-hacker-news">Hacker-News</a> с конфигурацией сборки в Docker image.
 
 1. Приложение разработано с использованием React и Redux. 
