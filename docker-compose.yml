@@ -1,0 +1,24 @@
+version: '3.8'
+
+services: 
+  client:
+    container_name: hack-news-client
+    image: hacker-client
+    build: 
+      context: ./client
+      dockerfile: Dockerfile
+    ports:
+      - "3000:3000"
+    volumes: 
+      - ./client/src:/client/src
+    depends_on: 
+      - server
+  
+  server:
+    container_name: hack-news-server
+    image: hacker-server 
+    build:
+      context: ./server
+      dockerfile: Dockerfile
+    ports:
+      - "5000:5000"
