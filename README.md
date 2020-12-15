@@ -5,7 +5,7 @@
 2. Реализован бэкенд для хостинга статики и API для инкапсуляции внешних запросов на Node.JS. 
 3. Создана конфигурация сборки проекта в Docker image.
 
---
+---
 
 ### Prerequisites
 
@@ -30,4 +30,4 @@ If you want to stop it, use the following command:
 $ docker-compose down
 ```
 
---
+---
