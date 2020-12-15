@@ -1,5 +1,5 @@
 # <a href="https://github.com/SeniorIgor/Hacker-News#-hacker-news"></a> Hacker-News-Docker
-### Hacker-News-Docker - интерфейс для отображения данных предоставляемых <a href="https://news.ycombinator.com/news">API Hacker News</a>.
+### Hacker-News-Docker - копия проекта <a href="https://github.com/SeniorIgor/Hacker-News#-hacker-news">Hacker-News</a> с конфигурацией сборки в Docker image.
 
 1. Приложение разработано с использованием React и Redux. 
 2. Реализован бэкенд для хостинга статики и API для инкапсуляции внешних запросов на Node.JS. 
