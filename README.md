@@ -21,7 +21,7 @@ Instructions how to install **Docker** on [Ubuntu](https://docs.docker.com/insta
 The entire application can be run with a single command on a terminal:
 
 ```
-$ docker-compose up -d
+$ docker-compose up --build
 ```
 
 If you want to stop it, use the following command:
