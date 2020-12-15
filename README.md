@@ -31,4 +31,3 @@ If you want to stop it, use the following command:
 $ docker-compose down
 ```
 
----
