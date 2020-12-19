@@ -1,5 +1,5 @@
 # <a href="https://github.com/SeniorIgor/Hacker-News-Docker/blob/master/README.md#-hacker-news-docker"></a> Hacker-News-Docker
-### Hacker-News-Docker - copy of <a href="https://github.com/SeniorIgor/Hacker-News#-hacker-news">Hacker-News</a> project with build configuration in Docker image.
+### Hacker-News-Docker - copy of <a href="https://github.com/SeniorIgor/Hacker-News">Hacker-News</a> project with build configuration in Docker image.
 
 1. Application build in React with Redux
 2. Сonsumes the REST API endpoints provided by <a href="https://news.ycombinator.com/news">API Hacker News</a>.
